@@ -13,7 +13,6 @@ def get_connection():
     )
 
 def normalize_id(trx_id):
-    """Pastikan transaction id berupa integer string"""
     try:
         return str(int(float(trx_id)))
     except Exception:
