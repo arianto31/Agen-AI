@@ -21,9 +21,9 @@ The assistant can:
 ## 🛠️ Tech Stack
 - Python 3.10+  
 - Streamlit – Web UI  
-- OpenAI / Groq API – LLM with function calling  
+- Groq API – LLM with function calling  
 - Pydantic – Data validation  
-- MySQL / SQL DB – Store and manage shipping orders  
+- MySQL DB – Store and manage shipping orders  
 
 ---
 
