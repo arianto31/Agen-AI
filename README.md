@@ -31,5 +31,4 @@ The assistant can:
 ```text
 ├── db.py                 # Database utilities (get_order, update_email, etc.)
 ├── app.py                # Main Streamlit app (AI chat interface)
-├── requirements.txt      # Project dependencies
 └── README.md             # Project documentation
