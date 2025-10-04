@@ -10,6 +10,12 @@ The assistant can:
 
 ---
 
+## 📸 Demo Screenshot
+![App Screenshot](./Screenshot%202025-10-04%20091614.png)  
+*Example of the AI Shipping Assistant UI in action.*
+
+---
+
 ## 🚀 Features
 - **Interactive Chat UI** built with Streamlit  
 - **AI Agent with tool-calling** (functions for database operations)  
