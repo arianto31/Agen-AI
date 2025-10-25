@@ -1,6 +1,6 @@
 # 🧠 Career Chatbot AI — Your Personal Interactive Career Chatbot 
 
-[![Chat with Career Chatbot AI ](https://img.shields.io/badge/💬_Try%20the%20Chatbot-Live%20Demo-blue?style=for-the-badge)]([https://<your-chatbot-link>](https://huggingface.co/spaces/papipu31/career_conversations))
+[![Chat with Career Chatbot AI ](https://img.shields.io/badge/💬_Try%20the%20Chatbot-Live%20Demo-blue?style=for-the-badge)]([https://<huggingface.co/spaces/papipu31/career_conversations>])
 
 ![Chatbot Screenshot](Screenshot%202025-10-10%20152606.png)
 > *A personalized AI chatbot that represents your professional background.*
