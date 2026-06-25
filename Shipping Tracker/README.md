@@ -1,7 +1,7 @@
 # 📦 AI Shipping Assistant
 
 An **AI-powered customer support assistant** for shipping companies.  
-This project combines **Streamlit** for the UI, **OpenAI function calling** for reasoning, and a **SQL database** for order management.  
+This project combines **Streamlit** for the UI, **Groq** for high-speed reasoning, and a **SQL database** for order management.  
 
 The assistant can:  
 ✅ Track orders by Transaction ID  
